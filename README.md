@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @edwine-nyakundi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning  django
-- 💞️ I’m looking to collaborate on this framework
+  
 - 📫 How to reach me 0112714808
 
 <!---
